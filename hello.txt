@@ -13,4 +13,4 @@ hello atDiuDiu! hello git!
 hello atDiuDiu! hello git!
 hello atDiuDiu! hello git!
 hello atDiuDiu! hello git!
-hello atDiuDiu! hello git!
+hello atDiuDiu! hello git! hot-fix test
